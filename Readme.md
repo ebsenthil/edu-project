@@ -1,4 +1,4 @@
-## Objective 
+# Objective - Short Summary
 We are developing an AI-powered application designed to assist students in grades 9 through 12 within the U.S. education system, with a particular focus on California. The goal of the application is to guide students in planning their academic and career paths based on their individual profiles.
 
 By analyzing a student's background—including their educational history, geographic location, academic performance, interests, hobbies, extracurricular involvement (such as leadership roles, clubs, and sports)—the AI system will provide personalized recommendations. These recommendations will include:
@@ -16,9 +16,11 @@ Step-by-step guidance to help them reach their long-term academic and career goa
 Additionally, if the student enrolls in the platform, their progress will be continuously tracked. The system will provide feedback and adjustments as needed to help them stay on course and achieve their goals effectively.
 
 
-## Objective - Explained in Detail
+# Objective - Explained in Detail
 
-# AI-Powered Academic and Career Planning Platform for High School Students (Grades 9–12)
+## AI-Powered Academic and Career Planning Platform for High School Students (Grades 9–12)
+
+![AI Platform Architecture](NoteGPT-Flowchart-1751711015414.png)
 
 ## Overview
 
